@@ -1,4 +1,4 @@
-# 
+# Nativo Browser Use plugins. Con pipelines de datos y análisis de documentos — optimizado para el máximo rendimiento y eficiencia.
 
 
 
